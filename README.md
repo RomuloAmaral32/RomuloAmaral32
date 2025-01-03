@@ -1,5 +1,5 @@
 # Rômulo Amaral
-👋 Olá, meu nome é Rômulo Amaral. Sou estudante de Ciência da Computação na Universidade Federal de Juiz de Fora (UFJF) 🧠. 
+👋 Olá, meu nome é Rômulo Amaral. Sou estudante de Ciência da Computação na Universidade Federal de Juiz de Fora (UFJF) 🧠.  
 ## 📊 Estatísticas do Perfil:
 <div align="center" >
 <a href="https://github.com/RomuloAmaral32">
